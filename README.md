@@ -1,4 +1,4 @@
-### Hi there 👋
+### Greetings
 
 <!--
 **pacas/pacas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a regular student. I study python in my spare time and add interesting results here. 
+For the most part, there will be jun-level code here, but I hope to improve it over time.
+My graduate work as a Bachelor - [Mod Manager for the game Stellaris](https://github.com/pacas/Stellaris_PMMP). Take a look and help me improve my code.
+Peace and tranquility to you.
