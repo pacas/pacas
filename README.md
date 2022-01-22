@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 💬 I am a regular student. I study Python in my spare time and add interesting results here.
 For the most part, there will be jun-level code here, but I hope to improve it over time.
 <br><br>
-🚀 My special project - translations pack of modifications for the game Stellaris into russian - [PTP - Russian Localization](https://steamcommunity.com/sharedfiles/filedetails/?id=1375388095). Several years of translation as an English practice.
+🚀 My special project - modifications translation pack for the game Stellaris into Russian - [PTP - Russian Localization](https://steamcommunity.com/sharedfiles/filedetails/?id=1375388095). Several years of translation as an English practice.
 <br><br>
 ✨ Have a good day ✨
