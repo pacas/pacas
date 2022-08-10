@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💬 I am a regular student. I study Python in my spare time and add interesting results here.
-For the most part, there will be jun-level code here, but I hope to improve it over time.
+💬 Junior Python and PHP Developer.
 <br><br>
-🚀 My special project - modifications translation pack for the game Stellaris into Russian - [PTP - Russian Localization](https://steamcommunity.com/sharedfiles/filedetails/?id=1375388095). Several years of translation as an English practice.
-<br><br>
-✨ Have a good day ✨
+🚀 My projects
+- Modifications translation pack for the game Stellaris into Russian - [PTP - Russian Localization](https://steamcommunity.com/sharedfiles/filedetails/?id=1375388095). 
+- Patching mods for Rimworld HSK Modpack
