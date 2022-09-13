@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💬 Junior Python and [PHP Developer](https://skatrade.ru).
+💬 Junior Python and [PHP Developer](https://skatrade.ru).<br>
 📫 [Info and contacts](https://pacas.github.io).
 <br><br>
 🚀 My projects
