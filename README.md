@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💬 Junior Python and PHP Developer.
+💬 Junior Python and [PHP Developer](https://skatrade.ru).
+📫 [Info and contacts](https://pacas.github.io).
 <br><br>
 🚀 My projects
 - Modifications translation pack for the game Stellaris into Russian - [PTP - Russian Localization](https://steamcommunity.com/sharedfiles/filedetails/?id=1375388095). 
-- Patching mods for Rimworld HSK Modpack
+- [Patched mods](https://github.com/pacas/RW-Pacas-HSK-Patches) for [Rimworld HSK Modpack](https://github.com/skyarkhangel/Hardcore-SK/tree/development).
