@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 📫 [Info and contacts](https://pacas.github.io).
 <br><br>
 🚀 My projects
-- Modifications translation pack for the game Stellaris into Russian - [PTP - Russian Localization](https://steamcommunity.com/sharedfiles/filedetails/?id=1375388095). 
-- [Patched mods](https://github.com/pacas/RW-Pacas-HSK-Patches) for [Rimworld HSK Modpack](https://github.com/skyarkhangel/Hardcore-SK/tree/development).
+- Modifications translation pack for the game Stellaris into Russian - [PTP - Russian Localization](https://steamcommunity.com/sharedfiles/filedetails/?id=1375388095) 
+- [Patched mods](https://github.com/pacas/RW-Pacas-HSK-Patches) for [Rimworld HSK Modpack](https://github.com/skyarkhangel/Hardcore-SK/tree/development) 
+<br><br>
 💵 Donate
 - [Boosty](https://boosty.to/pacas)
