@@ -15,14 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💬 Junior Python and [PHP Developer](https://skatrade.ru).<br>
+💬 PHP Developer at [CBonds](https://cbonds.com/).<br>
 📫 [Info and contacts](https://pacas.github.io).
 <br><br>
-🚀 My projects 
-- Modifications translation pack for the game Stellaris into Russian - [PTP - Russian Localization](https://steamcommunity.com/sharedfiles/filedetails/?id=1375388095) 
-- [Patched mods](https://github.com/pacas/RW-Pacas-HSK-Patches) for [Rimworld HSK Modpack](https://github.com/skyarkhangel/Hardcore-SK/tree/development) 
+🚀 Github projects 
+- Modifications translation pack for the game Stellaris into Russian - [PTP - Russian Localization](https://steamcommunity.com/sharedfiles/filedetails/?id=1375388095) (deprecated, maintained by community)
+- [Patched mods](https://github.com/pacas/RW-Pacas-HSK-Patches) for [Rimworld HSK Modpack](https://github.com/skyarkhangel/Hardcore-SK/tree/development)
+- [Patches compilation](https://github.com/pacas/Pacas-Patches-Compilation) for [Rimworld HSK Modpack](https://github.com/skyarkhangel/Hardcore-SK/tree/development) 
 
 
 :dollar: Donate 
 - [Boosty](https://boosty.to/pacas) 
-- [Steam](https://steamcommunity.com/tradeoffer/new/?partner=93729960&token=dgWxX8tO)
+- [Steam](https://steamcommunity.com/tradeoffer/new/?partner=93729960&token=dgWxX8tO) 
