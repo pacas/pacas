@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - [Patches compilation](https://github.com/pacas/Pacas-Patches-Compilation) for [Rimworld HSK Modpack](https://github.com/skyarkhangel/Hardcore-SK/tree/development) 
 
 <br>
-:dollar: Support 
-- [Boosty](https://boosty.to/pacas)
-- [D. Alerts](https://www.donationalerts.com/r/pacas)
+:dollar: Support<br>
+- [Boosty](https://boosty.to/pacas)<br>
+- [D. Alerts](https://www.donationalerts.com/r/pacas)<br>
 - [Steam](https://steamcommunity.com/tradeoffer/new/?partner=93729960&token=dgWxX8tO) 
