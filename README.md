@@ -23,9 +23,8 @@ Here are some ideas to get you started:
 - Pet project - [HMC Nobility Expanded](https://github.com/pacas/HMC-Nobility-Expanded) - opensource modification for the game Rimworld. C# and xml/xpath mostly.
 - [Patched mods](https://github.com/pacas/RW-Pacas-HSK-Patches) for [Rimworld HSK Modpack](https://github.com/skyarkhangel/Hardcore-SK/tree/development)
 - [Patches compilation](https://github.com/pacas/Pacas-Patches-Compilation) for [Rimworld HSK Modpack](https://github.com/skyarkhangel/Hardcore-SK/tree/development) 
-
-<br>
-:dollar: Support<br>
-- [Boosty](https://boosty.to/pacas)<br>
-- [D. Alerts](https://www.donationalerts.com/r/pacas)<br>
+<br><br>
+:dollar: Support
+- [Boosty](https://boosty.to/pacas)
+- [D. Alerts](https://www.donationalerts.com/r/pacas)
 - [Steam](https://steamcommunity.com/tradeoffer/new/?partner=93729960&token=dgWxX8tO) 
