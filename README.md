@@ -19,11 +19,12 @@ Here are some ideas to get you started:
 📫 Info and contacts - [pacas.dev](https://www.pacas.dev/).
 <br><br>
 🚀 Projects 
-- Modifications translation pack for the game Stellaris into Russian - [PTP - Russian Localization](https://steamcommunity.com/sharedfiles/filedetails/?id=1375388095) (abandoned, maintained by community)
+- Mods translation pack for the game Stellaris - [PTP - Russian Localization](https://steamcommunity.com/sharedfiles/filedetails/?id=1375388095) (abandoned, maintained by community)
 - Pet project - [HMC Nobility Expanded](https://github.com/pacas/HMC-Nobility-Expanded) - opensource modification for the game Rimworld. C# and xml/xpath mostly.
 - [Patched mods](https://github.com/pacas/RW-Pacas-HSK-Patches) for [Rimworld HSK Modpack](https://github.com/skyarkhangel/Hardcore-SK/tree/development)
 - [Patches compilation](https://github.com/pacas/Pacas-Patches-Compilation) for [Rimworld HSK Modpack](https://github.com/skyarkhangel/Hardcore-SK/tree/development) 
 <br><br>
+
 :dollar: Support
 - [Boosty](https://boosty.to/pacas)
 - [D. Alerts](https://www.donationalerts.com/r/pacas)
